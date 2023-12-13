@@ -1,0 +1,10 @@
+h1{background-color: #f2f3eb; position: fixed
+    ;margin: -25px; height: 50px;  width: 1600px; text-align: center; }
+    div{background-color:whitesmoke; margin-top:25px; height: 1000px; width: 800px;}
+  div div {background-color: rgba(200, 199, 199, 0.308); height: 1000px; width: 250px; margin-left: -7px; display: ; position: static;}
+  img{ margin-left: 40px;}
+  #ccc{text-align: center;}
+  #sol{background-color: whitesmoke; margin-left: 290px; margin-top:-1000px; width: 500px;}
+  #ext{background-color: rgba(200, 199, 199, 0.308); height: 240px; width: 250px; margin-left: -7px; margin-top: -20px;}
+  body{background-color: whitesmoke}
+  #date{text-align: right; margin-top: -35px;}
